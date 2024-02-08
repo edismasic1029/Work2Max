@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Work2Max</string>
+    <string name="quote_1">The bench press is a classic exercise for building a strong chest, shoulders, and triceps.</string>
+    <string name="quote_2">The leg press is a great exercise for strengthening the quads, hamstrings, and glutes.</string>
+    <string name="quote_3">The shoulder press is an effective exercise for building strong shoulders and upper back.</string>
+    <string name="quote_4">The incline dumbbell press targets the upper chest muscles and is a great variation on the standard bench press.</string>
+    <string name="quote_5">The overhead press is a compound exercise that targets the shoulders and triceps.</string>
+    <string name="quote_6"> The calf raise is an isolation exercise that targets the calf muscles.</string>
+    <string name="quote_7">Pushups are a classic bodyweight exercise that target the chest, shoulders, and triceps.</string>
+    <string name="quote_8"> The lat pulldown is a machine exercise that targets the back and biceps.</string>
+    <string name="quote_9">The squat is a compound exercise that targets the quads, hamstrings, and glutes. </string>
+    <string name="quote_10"> </string>
+
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fitness">Fitness</string>
+    <string name="unit">In</string>
+    <string name="femaletext">Female</string>
+    <string name="age">Age</string>
+    <string name="startingheight">0</string>
+    <string name="startingweight">0</string>
+    <string name="startingage">0</string>
+    <string name="todo">TODO</string>
+    <string name="height">Height</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="weight">Weight</string>
+    <string name="male">Male</string>
+    <string name="login">Login</string>
+
+
+</resources>

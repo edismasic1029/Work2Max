@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="workout_name_textview" type="id" />
+    <item name="workout_info_textview" type="id" />
+    <item name="workout_imageview" type="id" />
+</resources>
