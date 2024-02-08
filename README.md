@@ -14,6 +14,7 @@ For the Bmi index, my workout,
 and recommendations. The Bmi index once 
 Values are imputed, then click the calculate 
 Btn —> Bmi Activity will will display the results of your Bmi. 
+
 ![image](https://github.com/edismasic1029/Work2Max/assets/89406335/b539f8d3-6d05-410d-803f-03506e3c1e05)
 
 
